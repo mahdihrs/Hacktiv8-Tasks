@@ -1,0 +1,56 @@
+body {
+	margin: 0 20px 25px 20px;
+	font-family: "lora", serif;
+}
+
+.navbar {
+	background: blue;
+	font-family: "lora", serif;
+}
+
+.jumbotron {
+	margin-top: 5px;
+	background-image: url("https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Kennedy_dan_Sukarno_1961_%28foto_oleh_Life%2C_diarsipkan_Styleforum.com%29.jpg/800px-Kennedy_dan_Sukarno_1961_%28foto_oleh_Life%2C_diarsipkan_Styleforum.com%29.jpg");
+	background-size: cover;
+	height: 500px;
+	color: white;
+	font-family: "lora", serif;
+}
+
+.display-4 {
+	font-weight: 800;
+	color: white;
+}
+
+.gallery {
+	width: 30%;
+	padding: 10px;
+	margin: 1.66;
+}
+
+
+.btn-primary:hover { 
+	color: purple;
+    background-color: orange;
+}
+
+table, th, td {
+	text-align: center;
+	margin-left: 150px;
+	border: 1px solid black;
+}
+
+
+footer	{
+	width: 500px;
+	color: white;
+	background-color: black;
+}
+
+h5 {
+	font-weight: 650;
+}
+
+h2 {
+	font-weight: 700;
+}
